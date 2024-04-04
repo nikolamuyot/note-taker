@@ -13,7 +13,7 @@ This is a simple note-taking application built using [insert technologies/framew
 
 ## Installation
 
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone https://github.com/nikolamuyot/note-taker.git`
 2. Install dependencies: `npm install`
 
 ## Usage
